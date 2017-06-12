@@ -50,3 +50,15 @@ The following options may be passed to TableBodyScroll:
 * postinit - A callback function to run after each TableCards initialization is run (Default is null).
 
 To destroy the instance and restore the table to its initial state, simply call:  `$('#mytable').TableBodyScroll('destroy');`
+
+Events
+------
+
+The following custom events may be listened for:
+
+* tablebodyscroll:sizechanged - Notifies after resizing the table's most immediate parent.
+
+The following custom events may be manually triggered:
+
+* tablebodyscroll:resize - Notifies TableBodyScroll that the table has been resized.
+* tablebodyscroll:columnschanged - Notifies TableBodyScroll that the table columns have changed and to rebuild any headers and footers.
