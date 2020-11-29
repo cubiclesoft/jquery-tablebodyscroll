@@ -5,6 +5,8 @@ This jQuery plugin heavily modifies table bodies into slick vertical scrolling s
 
 Combined with [TableCards](https://github.com/cubiclesoft/jquery-tablecards), traditional tables can be displayed on all devices in a neat, compact format.
 
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/) [![Discord](https://img.shields.io/discord/777282089980526602?label=chat&logo=discord)](https://cubiclesoft.com/product-support/github/)
+
 Usage
 -----
 
